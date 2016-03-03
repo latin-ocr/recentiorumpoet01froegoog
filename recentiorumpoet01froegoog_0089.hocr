@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./recentiorumpoet01froegoog_0089.png"; bbox 0 0 2402 3850; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 122 921 1066 1355">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 122 921 1066 1355">
+     <span class='ocr_line' id='line_1_1' title="bbox 326 921 1046 1056; baseline 0.001 -5"><span class='ocrx_word' id='word_1_1' title='bbox 326 977 398 1054; x_wconf 91' lang='lat'><strong>10.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 441 921 705 1056; x_wconf 47' lang='lat' dir='ltr'><strong>sEc&#39;UNDI</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 816 986 820 994; x_wconf 58' lang='lat'>¹</span> <span class='ocrx_word' id='word_1_4' title='bbox 938 981 940 988; x_wconf 51' lang='lat'><strong>⁴</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1044 1033 1046 1038; x_wconf 92' lang='lat'>.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 122 1128 1066 1355; baseline -0.006 -63"><span class='ocrx_word' id='word_1_6' title='bbox 122 1145 471 1355; x_wconf 67' lang='lat' dir='ltr'><strong>S&#39;Y4L</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 565 1169 754 1300; x_wconf 78' lang='lat' dir='ltr'><strong>VA</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 833 1128 910 1286; x_wconf 82' lang='grc' dir='ltr'><em>Ε</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1065 1195 1066 1200; x_wconf 14' lang='grc' dir='ltr'>ψ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 226 1447 971 1578">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 226 1447 971 1578">
+     <span class='ocr_line' id='line_1_3' title="bbox 226 1447 971 1578; baseline -0.003 -26"><span class='ocrx_word' id='word_1_10' title='bbox 226 1447 814 1557; x_wconf 55' lang='grc' dir='ltr'><strong>υΕΑΜΒυὶΑτυῆῑε</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 967 1573 971 1578; x_wconf 82' lang='lat'><em>.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 283 1722 637 1802">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 283 1722 637 1802">
+     <span class='ocr_line' id='line_1_4' title="bbox 283 1722 637 1802; baseline 0.011 -4"><span class='ocrx_word' id='word_1_12' title='bbox 283 1722 286 1730; x_wconf 72' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 392 1755 637 1802; x_wconf 66' lang='lat' dir='ltr'>PATEFAcTAe</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 114 2101 679 2178">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 114 2068 679 2178">
+     <span class='ocr_line' id='line_1_5' title="bbox 114 2101 679 2178; baseline 0 -8"><span class='ocrx_word' id='word_1_14' title='bbox 114 2123 116 2128; x_wconf 95' lang='lat'>·</span> <span class='ocrx_word' id='word_1_15' title='bbox 276 2101 679 2178; x_wconf 42' lang='lat' dir='ltr'><strong>w0.„P.1‹”.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1206 3850">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1206 3850">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1206 3850; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 1206 3850; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
